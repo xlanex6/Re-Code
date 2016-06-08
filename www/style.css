@@ -5,9 +5,13 @@ body {
 
 
 h1 {
-  font-family: sans-serif; league26zc2y4
-
+  font-family: courier;
+  font-size: 50px;
   color: white;
   text-align: center;
+
+}
+p{
+color: #A097FF;
 
 }

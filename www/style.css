@@ -40,16 +40,17 @@ color: white;
 #my-footer{
 
   padding: 30px;
-  background: #34495e
+  background: #34495e;
 }
 
-##my-footer a{
-color:lighgrey;
+#my-footer a{
+  color: lightgrey;
+  font-size: 30px;
 
 }
 
-##my-footer a:hover{
-color: white;
+#my-footer a:hover {
+  color: white;
 
 }
 
